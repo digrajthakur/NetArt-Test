@@ -265,6 +265,10 @@ body{
 /* MEDIA QUERIES 2 */
 
 @media (min-width: 801px) {
+       body{
+        width: auto;
+        height: 100vh;
+    }
     .img img {
         width: 40vw;
     }
