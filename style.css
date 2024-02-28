@@ -269,12 +269,12 @@ body{
         width: 40vw;
     }
 
-    .head .img-1 img {
-        width: 25vw;
-        height: 76vh;
-        margin-left: 0vw;
+    .head .img-1 img { 
+       width: 25vw; 
+       height: auto; 
+       margin-top: 6vh; 
+       margin-left: 0vw; 
     }
-
     .head .para p {
         margin-left: 0vw;
         font-size: 1.59vw;
@@ -289,7 +289,7 @@ body{
     }
 
     .head .para img {
-        width: 62vw;
+        width: 56vw;
         margin-left: 0vw;
         margin-top: 1.2vh;
     }
@@ -327,7 +327,7 @@ body{
     /* footer */
 
     .footer {
-        width: 96vw;
+        width: auto;
         flex-wrap: wrap;
         height: auto;
         padding-top: 2rem;
